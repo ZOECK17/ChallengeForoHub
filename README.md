@@ -1,4 +1,4 @@
-# 📚 **Challenge Foro Hub**
+# 🧩 **Challenge Foro Hub** 🧩
 
 Foro Hub es una aplicación API de back-end diseñada para gestionar un foro de discusión. Permite a los 
 usuarios registrarse, autenticarse y realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre 
